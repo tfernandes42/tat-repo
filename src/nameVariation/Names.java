@@ -17,6 +17,7 @@ public class Names {
 		System.out.print("enter name: ");
 		String name = scan.nextLine(); 
 		
+		System.out.print("Gender: ");
 		System.out.print("male or female: ");
 		String gender = scan.nextLine();
 			
